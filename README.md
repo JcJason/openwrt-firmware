@@ -6,8 +6,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
-A template for building OpenWrt with GitHub Actions
-A release of Jason's .config
+- A template for building OpenWrt with GitHub Actions.
+- A release of Jason's .config
 
 ## Usage
 
